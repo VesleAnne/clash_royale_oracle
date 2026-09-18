@@ -1,0 +1,4 @@
+# Pick the provider you use. Installing both is fine but unnecessary.
+
+google-genai>=2.0      # --provider gemini  (the default)
+# openai>=2.0          # --provider openai  (uncomment to use GPT instead)

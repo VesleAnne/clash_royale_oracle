@@ -1,0 +1,3637 @@
+{
+  "generated_at": "2026-09-18",
+  "mode": "embeddings (gemini-embedding-001, all cached)",
+  "threshold": 0.8,
+  "themes": [
+    {
+      "id": "t001",
+      "polarity": "negative",
+      "label": "lacks skill",
+      "variants": [
+        "lacks skill",
+        "lacks skill and intelligence",
+        "lacks skill and strategy",
+        "low skill",
+        "low skill cap",
+        "no skill",
+        "no skill building",
+        "no skill involved",
+        "no skill win condition",
+        "plays with no skill",
+        "relies on no-skill gameplay",
+        "requires less skill",
+        "requires no skill",
+        "requires zero skill",
+        "uses no skill decks",
+        "wins without skill"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks skill",
+          "polarity": "negative",
+          "quote": "Actual toddlers and their crutch card",
+          "link": "https://reddit.com/comments/1r667b1",
+          "posts": 9,
+          "score": 65
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "low skill",
+          "polarity": "negative",
+          "quote": "incredibly low skill",
+          "link": "https://reddit.com/comments/1qbgxep",
+          "posts": 3,
+          "score": 48
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "braindead MK players",
+          "link": "https://reddit.com/comments/1udlsb9",
+          "posts": 3,
+          "score": 3
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks skill and intelligence",
+          "polarity": "negative",
+          "quote": "megaknight players are the most braindead 0skill creatures",
+          "link": "https://reddit.com/comments/1tjwaje",
+          "posts": 3,
+          "score": 3
+        },
+        {
+          "subject": "goblin giant",
+          "about": "player",
+          "trait": "uses no skill decks",
+          "polarity": "negative",
+          "quote": "You also see him in the most no skill decks",
+          "link": "https://reddit.com/comments/1nr1m2q",
+          "posts": 1,
+          "score": 1323
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "plays with no skill",
+          "polarity": "negative",
+          "quote": "cards that take no skill",
+          "link": "https://reddit.com/comments/1pujts5",
+          "posts": 1,
+          "score": 153
+        },
+        {
+          "subject": "X-Bow",
+          "about": "card",
+          "trait": "no skill building",
+          "polarity": "negative",
+          "quote": "everyone calls x-bow the no skill building",
+          "link": "https://reddit.com/comments/1wcro3k",
+          "posts": 1,
+          "score": 140
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "low skill",
+          "polarity": "negative",
+          "quote": "the low skill decks get hate",
+          "link": "https://reddit.com/comments/1t5062y",
+          "posts": 1,
+          "score": 92
+        },
+        {
+          "subject": "Suspicious Bush",
+          "about": "player",
+          "trait": "no skill involved",
+          "polarity": "negative",
+          "quote": "no skill involved",
+          "link": "https://reddit.com/comments/1vrxwd8",
+          "posts": 1,
+          "score": 48
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks skill and strategy",
+          "polarity": "negative",
+          "quote": "every match recently has been mega knight braindead slop",
+          "link": "https://reddit.com/comments/1txz3xg",
+          "posts": 1,
+          "score": 28
+        },
+        {
+          "subject": "cycle decks",
+          "about": "card",
+          "trait": "low skill cap",
+          "polarity": "negative",
+          "quote": "low skill cap",
+          "link": "https://reddit.com/comments/1b0bpdo",
+          "posts": 1,
+          "score": 14
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on no-skill gameplay",
+          "polarity": "negative",
+          "quote": "a crutch for no-skill gameplay",
+          "link": "https://reddit.com/comments/1pz36my",
+          "posts": 1,
+          "score": 13
+        },
+        {
+          "subject": "Boss Bandit",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "Boss Bandit is no skill",
+          "link": "https://reddit.com/comments/1v5v2sm",
+          "posts": 1,
+          "score": 3
+        },
+        {
+          "subject": "Electro Giant",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "Electro Giant is highly considered to be a low-skill Card",
+          "link": "https://reddit.com/comments/1sxncge",
+          "posts": 1,
+          "score": 3
+        },
+        {
+          "subject": "mortar bait",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "mortar bait its no skill and so bad to play against",
+          "link": "https://reddit.com/comments/1v00m1p",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Elite Barbarians",
+          "about": "player",
+          "trait": "requires zero skill",
+          "polarity": "negative",
+          "quote": "Zero skill involved",
+          "link": "https://reddit.com/comments/1vhg61k",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Mortar",
+          "about": "player",
+          "trait": "low skill",
+          "polarity": "negative",
+          "quote": "Low skill players also have no idea how to work with mortar",
+          "link": "https://reddit.com/comments/1vymzbs",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Evo Valkyrie",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "Evo Valkyrie is the most braindead",
+          "link": "https://reddit.com/comments/1ujroem",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "card",
+          "trait": "no skill",
+          "polarity": "negative",
+          "quote": "hog is preety no skill",
+          "link": "https://reddit.com/comments/1vtpfs3",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "midladder slop decks",
+          "about": "card",
+          "trait": "no skill",
+          "polarity": "negative",
+          "quote": "cards that are purely no skill, brute force",
+          "link": "https://reddit.com/comments/1v6k3d9",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "bowler-ebarbs",
+          "about": "card",
+          "trait": "no skill",
+          "polarity": "negative",
+          "quote": "crazy no-skill counterpush",
+          "link": "https://reddit.com/comments/1vh2wjo",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "X-Bow 3.0",
+          "about": "card",
+          "trait": "no skill",
+          "polarity": "negative",
+          "quote": "xbow 3.0 (Yes, 3.0 is no skill",
+          "link": "https://reddit.com/comments/1txvo08",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "requiring next to no skill",
+          "link": "https://reddit.com/comments/1f1gzaa",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Prince",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "prince is “no skill”",
+          "link": "https://reddit.com/comments/1weoyxi",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Witch",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "witch is no skill middladder nonsense",
+          "link": "https://reddit.com/comments/1wchs7j",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "2.6 hog",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "My list of no skill decks",
+          "link": "https://reddit.com/comments/1vjj8ok",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Mortar bait",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "My list of no skill decks",
+          "link": "https://reddit.com/comments/1vjj8ok",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Giant sparky",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "My list of no skill decks",
+          "link": "https://reddit.com/comments/1vjj8ok",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "card",
+          "trait": "no skill win condition",
+          "polarity": "negative",
+          "quote": "no skill win condition",
+          "link": "https://reddit.com/comments/1v8f7es",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "The Ronin",
+          "about": "card",
+          "trait": "requires no skill",
+          "polarity": "negative",
+          "quote": "parry doesnt require any skill",
+          "link": "https://reddit.com/comments/1utojas",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "bowler graveyard",
+          "about": "player",
+          "trait": "requires less skill",
+          "polarity": "negative",
+          "quote": "hero bowler graveyard spam takes alot less skill",
+          "link": "https://reddit.com/comments/1tv6kak",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Golem",
+          "about": "player",
+          "trait": "wins without skill",
+          "polarity": "negative",
+          "quote": "Nvm I just place golem and win",
+          "link": "https://reddit.com/comments/1vlc03d",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Boss Bandit",
+        "Bowler",
+        "Cannon",
+        "Electro Giant",
+        "Elite Barbarians",
+        "Giant",
+        "Goblin Barrel",
+        "Goblin Giant",
+        "Golem",
+        "Graveyard",
+        "Hog Rider",
+        "Ice Spirit",
+        "Mega Knight",
+        "Mortar",
+        "Musketeer",
+        "Prince",
+        "Sparky",
+        "Suspicious Bush",
+        "Valkyrie",
+        "Witch",
+        "X-Bow"
+      ],
+      "rarity_factor": 2.73
+    },
+    {
+      "id": "t002",
+      "polarity": "negative",
+      "label": "relies on crutches",
+      "variants": [
+        "a crutch",
+        "act as a crutch",
+        "acts as a crutch",
+        "crutch",
+        "crutch card",
+        "is a crutch",
+        "is a crutch spell",
+        "lack skill and rely on crutches",
+        "needs a crutch",
+        "relies on a crutch",
+        "relies on a crutch card",
+        "relies on crutch",
+        "relies on crutch mechanics",
+        "relies on crutches",
+        "relies on the card as a crutch",
+        "uses card as a crutch"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on crutches",
+          "polarity": "negative",
+          "quote": "A cheap and lazy, crutch-like way",
+          "link": "https://reddit.com/comments/1n6fh5m",
+          "posts": 5,
+          "score": 543
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "is a crutch",
+          "polarity": "negative",
+          "quote": "recovering from mk crutch",
+          "link": "https://reddit.com/comments/1li746e",
+          "posts": 4,
+          "score": 10
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on crutch",
+          "polarity": "negative",
+          "quote": "ll never be anything but a MK crutch",
+          "link": "https://reddit.com/comments/1t9pfo8",
+          "posts": 4,
+          "score": 4
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on the card as a crutch",
+          "polarity": "negative",
+          "quote": "uses it as a crutch",
+          "link": "https://reddit.com/comments/1qbgxep",
+          "posts": 3,
+          "score": 16
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on a crutch",
+          "polarity": "negative",
+          "quote": "crutch for people who think it’s strong",
+          "link": "https://reddit.com/comments/1mwob9p",
+          "posts": 3,
+          "score": 2
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "crutch card",
+          "polarity": "negative",
+          "quote": "crutch card",
+          "link": "https://reddit.com/comments/1r667b1",
+          "posts": 2,
+          "score": 60
+        },
+        {
+          "subject": "Firecracker",
+          "about": "card",
+          "trait": "is a crutch",
+          "polarity": "negative",
+          "quote": "Evo firecracker is the biggest crutch for bad players ever",
+          "link": "https://reddit.com/comments/17o634j",
+          "posts": 2,
+          "score": 3
+        },
+        {
+          "subject": "Prince",
+          "about": "player",
+          "trait": "relies on crutches",
+          "polarity": "negative",
+          "quote": "anyone who says otherwise plays Prince and doesn't want the crutch of there deck",
+          "link": "https://reddit.com/comments/1nr1m2q",
+          "posts": 1,
+          "score": 1323
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lack skill and rely on crutches",
+          "polarity": "negative",
+          "quote": "There is no skill involved in it... bad players crutch this card",
+          "link": "https://reddit.com/comments/1u9cy9a",
+          "posts": 1,
+          "score": 264
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on a crutch card",
+          "polarity": "negative",
+          "quote": "no skill crutch card",
+          "link": "https://reddit.com/comments/1irpcc4",
+          "posts": 1,
+          "score": 163
+        },
+        {
+          "subject": "Evolutions",
+          "about": "card",
+          "trait": "crutch",
+          "polarity": "negative",
+          "quote": "Evolutions are at the end of the day: a crutch",
+          "link": "https://reddit.com/comments/1bi0bea",
+          "posts": 1,
+          "score": 102
+        },
+        {
+          "subject": "Freeze",
+          "about": "card",
+          "trait": "crutch card",
+          "polarity": "negative",
+          "quote": "freeze is still the most crutch card",
+          "link": "https://reddit.com/comments/1i14wyn",
+          "posts": 1,
+          "score": 36
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "a crutch",
+          "polarity": "negative",
+          "quote": "he’s a crutch for no-skill gameplay",
+          "link": "https://reddit.com/comments/1pz36my",
+          "posts": 1,
+          "score": 13
+        },
+        {
+          "subject": "Tesla",
+          "about": "card",
+          "trait": "crutch card",
+          "polarity": "negative",
+          "quote": "biggest crutch card",
+          "link": "https://reddit.com/comments/1f5jtve",
+          "posts": 1,
+          "score": 7
+        },
+        {
+          "subject": "Lightning",
+          "about": "card",
+          "trait": "is a crutch spell",
+          "polarity": "negative",
+          "quote": "lightning because it's a D1 crutch spell",
+          "link": "https://reddit.com/comments/1phfysn",
+          "posts": 1,
+          "score": 6
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "uses card as a crutch",
+          "polarity": "negative",
+          "quote": "people abuse as a crutch",
+          "link": "https://reddit.com/comments/1horgtz",
+          "posts": 1,
+          "score": 5
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "relies on crutch mechanics",
+          "polarity": "negative",
+          "quote": "super crutch card to use",
+          "link": "https://reddit.com/comments/1homdri",
+          "posts": 1,
+          "score": 3
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "acts as a crutch",
+          "polarity": "negative",
+          "quote": "biggest crutch",
+          "link": "https://reddit.com/comments/1p1mf9s",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "evolutions",
+          "about": "card",
+          "trait": "act as a crutch",
+          "polarity": "negative",
+          "quote": "evos come in as a crutch to save any hog hits",
+          "link": "https://reddit.com/comments/1ljhhjd",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "tower troops",
+          "about": "player",
+          "trait": "needs a crutch",
+          "polarity": "negative",
+          "quote": "need a tower as a crutch",
+          "link": "https://reddit.com/comments/1nfiqum",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Archer Queen",
+          "about": "player",
+          "trait": "relies on a crutch",
+          "polarity": "negative",
+          "quote": "Super crutch archer queen",
+          "link": "https://reddit.com/comments/1mf4ckk",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Evolution Witch",
+          "about": "card",
+          "trait": "relies on a crutch",
+          "polarity": "negative",
+          "quote": "crutch card",
+          "link": "https://reddit.com/comments/1smt4yj",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Balloon",
+          "about": "player",
+          "trait": "relies on a crutch",
+          "polarity": "negative",
+          "quote": "if you play balloon as a crutch",
+          "link": "https://reddit.com/comments/1se8xdr",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Firecracker",
+          "about": "player",
+          "trait": "relies on crutches",
+          "polarity": "negative",
+          "quote": "major crutch card that 90% of the playerbase would be hardstuck",
+          "link": "https://reddit.com/comments/1m557cl",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Firecracker",
+          "about": "player",
+          "trait": "relies on the card as a crutch",
+          "polarity": "negative",
+          "quote": "Find another crutch",
+          "link": "https://reddit.com/comments/1jlibcx",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Archer Queen",
+        "Balloon",
+        "Firecracker",
+        "Freeze",
+        "Lightning",
+        "Mega Knight",
+        "Prince",
+        "Tesla",
+        "Witch"
+      ],
+      "rarity_factor": 3.57
+    },
+    {
+      "id": "t012",
+      "polarity": "negative",
+      "label": "braindead bot",
+      "variants": [
+        "brain dead",
+        "braindead",
+        "braindead and skilless",
+        "braindead bot",
+        "braindead deck",
+        "braindead mid-ladder",
+        "brainless",
+        "encourages braindead spam",
+        "is a braindead idiot",
+        "most braindead deck",
+        "part of braindead decks",
+        "teach braindead plays",
+        "toxic and braindead",
+        "uses braindead deck"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "braindead bot",
+          "polarity": "negative",
+          "quote": "braindead bots that play it",
+          "link": "https://reddit.com/comments/1u9cy9a",
+          "posts": 1,
+          "score": 264
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "encourages braindead spam",
+          "polarity": "negative",
+          "quote": "encouraging braindead spam even in upper ranked",
+          "link": "https://reddit.com/comments/1w944sb",
+          "posts": 1,
+          "score": 56
+        },
+        {
+          "subject": "golem",
+          "about": "player",
+          "trait": "braindead",
+          "polarity": "negative",
+          "quote": "braindead golem decks",
+          "link": "https://reddit.com/comments/1u3sj2o",
+          "posts": 1,
+          "score": 14
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "braindead deck",
+          "polarity": "negative",
+          "quote": "near-fully maxed mega knight braindead deck",
+          "link": "https://reddit.com/comments/1ul54s6",
+          "posts": 1,
+          "score": 8
+        },
+        {
+          "subject": "Tesla",
+          "about": "card",
+          "trait": "brain dead",
+          "polarity": "negative",
+          "quote": "most brain dead",
+          "link": "https://reddit.com/comments/1f5jtve",
+          "posts": 1,
+          "score": 7
+        },
+        {
+          "subject": "mega knight hog rider",
+          "about": "card",
+          "trait": "braindead deck",
+          "polarity": "negative",
+          "quote": "braindead decks like megaknight hogrider",
+          "link": "https://reddit.com/comments/1v6ly7l",
+          "posts": 1,
+          "score": 3
+        },
+        {
+          "subject": "hog rider ice golem",
+          "about": "card",
+          "trait": "braindead deck",
+          "polarity": "negative",
+          "quote": "most obnoxious, braindead deck",
+          "link": "https://reddit.com/comments/1urjhqu",
+          "posts": 1,
+          "score": 3
+        },
+        {
+          "subject": "poison piggies witch",
+          "about": "card",
+          "trait": "most braindead deck",
+          "polarity": "negative",
+          "quote": "The most braindead deck of all time",
+          "link": "https://reddit.com/comments/1w91msc",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "goblin barrel-graveyard",
+          "about": "card",
+          "trait": "braindead",
+          "polarity": "negative",
+          "quote": "new braindead deck just dropped",
+          "link": "https://reddit.com/comments/1vh2wjo",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Witch",
+          "about": "card",
+          "trait": "braindead mid-ladder",
+          "polarity": "negative",
+          "quote": "most braindead, mid-ladder deck",
+          "link": "https://reddit.com/comments/1v9zmuv",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Mortar",
+          "about": "card",
+          "trait": "toxic and braindead",
+          "polarity": "negative",
+          "quote": "mortar bait deck is insanely toxic and braindead",
+          "link": "https://reddit.com/comments/1v5fl2d",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Monk",
+          "about": "card",
+          "trait": "braindead",
+          "polarity": "negative",
+          "quote": "its just braindead place and watch it",
+          "link": "https://reddit.com/comments/1up7nmq",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "braindead",
+          "polarity": "negative",
+          "quote": "these braindead bots",
+          "link": "https://reddit.com/comments/1unq7wr",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Goblin Giant",
+          "about": "card",
+          "trait": "part of braindead decks",
+          "polarity": "negative",
+          "quote": "gob giant is mainly part of braindead decks",
+          "link": "https://reddit.com/comments/1uj5w8q",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "meta decks",
+          "about": "card",
+          "trait": "teach braindead plays",
+          "polarity": "negative",
+          "quote": "teach braindead and sloppy overly mechanical plays",
+          "link": "https://reddit.com/comments/1tyluee",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "mega pekka",
+          "about": "card",
+          "trait": "braindead and skilless",
+          "polarity": "negative",
+          "quote": "braindead and skilless decks, like mega PEKKA",
+          "link": "https://reddit.com/comments/1txvo08",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "lumberloon",
+          "about": "player",
+          "trait": "uses braindead deck",
+          "polarity": "negative",
+          "quote": "this is my deck... (lumberloon)",
+          "link": "https://reddit.com/comments/1wc5q02",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Rage",
+          "about": "player",
+          "trait": "uses braindead deck",
+          "polarity": "negative",
+          "quote": "I have the most braindead deck ever",
+          "link": "https://reddit.com/comments/1vx1n7q",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "players",
+          "about": "player",
+          "trait": "brainless",
+          "polarity": "negative",
+          "quote": "why have players become so brainless",
+          "link": "https://reddit.com/comments/1uhxrcq",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "is a braindead idiot",
+          "polarity": "negative",
+          "quote": "braindead idiots who crutch Mega Knight",
+          "link": "https://reddit.com/comments/1ncs4av",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Balloon",
+        "Goblin Barrel",
+        "Goblin Giant",
+        "Golem",
+        "Graveyard",
+        "Hog Rider",
+        "Ice Golem",
+        "Lumberjack",
+        "Mega Knight",
+        "Monk",
+        "Mortar",
+        "Poison",
+        "Rage",
+        "Tesla",
+        "Witch"
+      ],
+      "rarity_factor": 3.06
+    },
+    {
+      "id": "t028",
+      "polarity": "negative",
+      "label": "lacks defensive skill",
+      "variants": [
+        "has a skill issue",
+        "lack of skill",
+        "lack skill",
+        "lacks defense skill",
+        "lacks defensive ability",
+        "lacks defensive skill",
+        "lacks skill",
+        "lacks skill expression"
+      ],
+      "members": [
+        {
+          "subject": "Goblin Drill",
+          "about": "player",
+          "trait": "lacks defensive skill",
+          "polarity": "negative",
+          "quote": "defensive skill required to run most x-bow decks is not shared with drill players",
+          "link": "https://reddit.com/comments/1rhh22s",
+          "posts": 1,
+          "score": 431
+        },
+        {
+          "subject": "bowler freeze balloon",
+          "about": "player",
+          "trait": "lacks skill",
+          "polarity": "negative",
+          "quote": "recovering from losing to bowler freeze balloon",
+          "link": "https://reddit.com/comments/1luii79",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "lacks skill",
+          "polarity": "negative",
+          "quote": "requires no skill",
+          "link": "https://reddit.com/comments/1nfiqum",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Firecracker",
+          "about": "player",
+          "trait": "lacks defense skill",
+          "polarity": "negative",
+          "quote": "find new ways to build defense and skill",
+          "link": "https://reddit.com/comments/1nfiqum",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Witch",
+          "about": "player",
+          "trait": "lack skill",
+          "polarity": "negative",
+          "quote": "just as brain dead as MK",
+          "link": "https://reddit.com/comments/1vh15uk",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Hog",
+          "about": "player",
+          "trait": "lack skill",
+          "polarity": "negative",
+          "quote": "just as brain dead as MK",
+          "link": "https://reddit.com/comments/1vh15uk",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Balloon",
+          "about": "player",
+          "trait": "lacks skill",
+          "polarity": "negative",
+          "quote": "smooth brains with no skills, who can't play for shit",
+          "link": "https://reddit.com/comments/1se8xdr",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Inferno Tower",
+          "about": "player",
+          "trait": "lacks skill",
+          "polarity": "negative",
+          "quote": "such a crutch for the unskilled player",
+          "link": "https://reddit.com/comments/1n0rw2a",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Inferno Tower",
+          "about": "player",
+          "trait": "lacks defensive ability",
+          "polarity": "negative",
+          "quote": "lack of defensive ability",
+          "link": "https://reddit.com/comments/1gt8fxh",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Dagger Duchess",
+          "about": "player",
+          "trait": "lack of skill",
+          "polarity": "negative",
+          "quote": "no skill players",
+          "link": "https://reddit.com/comments/1cnm5ns",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "has a skill issue",
+          "polarity": "negative",
+          "quote": "has a skill issue",
+          "link": "https://reddit.com/comments/1vp46ca",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks skill expression",
+          "polarity": "negative",
+          "quote": "repetition than skill expression",
+          "link": "https://reddit.com/comments/1qaiq78",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Balloon",
+        "Bowler",
+        "Firecracker",
+        "Freeze",
+        "Goblin Drill",
+        "Hog Rider",
+        "Inferno Tower",
+        "Mega Knight",
+        "Witch"
+      ],
+      "rarity_factor": 3.57
+    },
+    {
+      "id": "t004",
+      "polarity": "negative",
+      "label": "spams the card",
+      "variants": [
+        "spams card mindlessly",
+        "spams cards",
+        "spams cards mindlessly",
+        "spams emotes",
+        "spams no skill cards",
+        "spams the card",
+        "spams without thinking"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "spams the card",
+          "polarity": "negative",
+          "quote": "spams tf out of it",
+          "link": "https://reddit.com/comments/1qbgxep",
+          "posts": 2,
+          "score": 17
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "spams card mindlessly",
+          "polarity": "negative",
+          "quote": "opponents just brainlessly spam this card on the bridge",
+          "link": "https://reddit.com/comments/1w5qern",
+          "posts": 1,
+          "score": 211
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "spams emotes",
+          "polarity": "negative",
+          "quote": "Emote Spammer",
+          "link": "https://reddit.com/comments/1w1v7v9",
+          "posts": 1,
+          "score": 72
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "spams cards mindlessly",
+          "polarity": "negative",
+          "quote": "braindead spam of mega knights",
+          "link": "https://reddit.com/comments/1w75thb",
+          "posts": 1,
+          "score": 20
+        },
+        {
+          "subject": "Mortar",
+          "about": "player",
+          "trait": "spams cards mindlessly",
+          "polarity": "negative",
+          "quote": "u can’t just spam it at the bridge",
+          "link": "https://reddit.com/comments/1ucx98l",
+          "posts": 1,
+          "score": 20
+        },
+        {
+          "subject": "Suspicious Bush",
+          "about": "player",
+          "trait": "spams cards mindlessly",
+          "polarity": "negative",
+          "quote": "always the same braindead strategy",
+          "link": "https://reddit.com/comments/1vrqhf0",
+          "posts": 1,
+          "score": 18
+        },
+        {
+          "subject": "Elixir Golem and Mega Knight",
+          "about": "player",
+          "trait": "spams cards",
+          "polarity": "negative",
+          "quote": "braindead e-golem and megaknight ... spammer",
+          "link": "https://reddit.com/comments/1w7a2b4",
+          "posts": 1,
+          "score": 11
+        },
+        {
+          "subject": "Dart Goblin",
+          "about": "player",
+          "trait": "spams emotes",
+          "polarity": "negative",
+          "quote": "Other players hate it bc of the dart goblin emote spam",
+          "link": "https://reddit.com/comments/1ddsmxw",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Tornado",
+          "about": "player",
+          "trait": "spams without thinking",
+          "polarity": "negative",
+          "quote": "avoid no brain spamming",
+          "link": "https://reddit.com/comments/1vrhhfh",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "hog, pekka, mega knight and goblin barrel spam decks",
+          "about": "player",
+          "trait": "spams no skill cards",
+          "polarity": "negative",
+          "quote": "spam spam spam no skill cards",
+          "link": "https://reddit.com/comments/1v709as",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Dart Goblin",
+        "Elixir Golem",
+        "Goblin Barrel",
+        "Hog Rider",
+        "Mega Knight",
+        "Mortar",
+        "P.E.K.K.A.",
+        "Suspicious Bush",
+        "Tornado"
+      ],
+      "rarity_factor": 3.57
+    },
+    {
+      "id": "t003",
+      "polarity": "negative",
+      "label": "plays mindlessly",
+      "variants": [
+        "plays brainless playstyle",
+        "plays brainlessly",
+        "plays mindlessly",
+        "plays with zero brain",
+        "plays without thinking"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "plays mindlessly",
+          "polarity": "negative",
+          "quote": "winning in a mindless way",
+          "link": "https://reddit.com/comments/1n6fh5m",
+          "posts": 3,
+          "score": 543
+        },
+        {
+          "subject": "Freeze",
+          "about": "player",
+          "trait": "plays brainlessly",
+          "polarity": "negative",
+          "quote": "brainlessly cycling freezes on defece",
+          "link": "https://reddit.com/comments/1vgmysl",
+          "posts": 1,
+          "score": 214
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "plays without thinking",
+          "polarity": "negative",
+          "quote": "you can get far in Clash Royale without thinking",
+          "link": "https://reddit.com/comments/1pz36my",
+          "posts": 1,
+          "score": 13
+        },
+        {
+          "subject": "Archers",
+          "about": "player",
+          "trait": "plays without thinking",
+          "polarity": "negative",
+          "quote": "Players are just playing cards without thinking",
+          "link": "https://reddit.com/comments/175vbzh",
+          "posts": 1,
+          "score": 5
+        },
+        {
+          "subject": "Monk",
+          "about": "player",
+          "trait": "plays with zero brain",
+          "polarity": "negative",
+          "quote": "he’s also one of the most braindead to play",
+          "link": "https://reddit.com/comments/1uunt0b",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "bowler graveyard",
+          "about": "player",
+          "trait": "plays mindlessly",
+          "polarity": "negative",
+          "quote": "playing braindead like that",
+          "link": "https://reddit.com/comments/1tv6kak",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "2.6 Hog",
+          "about": "player",
+          "trait": "plays mindlessly",
+          "polarity": "negative",
+          "quote": "its just braindead after braindead bridge spam",
+          "link": "https://reddit.com/comments/1tshreo",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Golem",
+          "about": "player",
+          "trait": "plays brainless playstyle",
+          "polarity": "negative",
+          "quote": "Clash keep on moving towards this brainless playstyle?",
+          "link": "https://reddit.com/comments/1tqkxz0",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Golem",
+          "about": "player",
+          "trait": "plays mindlessly",
+          "polarity": "negative",
+          "quote": "golem players will just drool over themselves",
+          "link": "https://reddit.com/comments/1rzn6ol",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Archers",
+        "Bowler",
+        "Cannon",
+        "Freeze",
+        "Golem",
+        "Graveyard",
+        "Hog Rider",
+        "Ice Spirit",
+        "Mega Knight",
+        "Monk",
+        "Musketeer"
+      ],
+      "rarity_factor": 3.37
+    },
+    {
+      "id": "t026",
+      "polarity": "negative",
+      "label": "completely awful at the game",
+      "variants": [
+        "bad at the game",
+        "completely awful at the game",
+        "god-awful at the game",
+        "is not good at the game",
+        "terrible at the game"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "completely awful at the game",
+          "polarity": "negative",
+          "quote": "they are *completely* awful with it",
+          "link": "https://reddit.com/comments/1sxkh4n",
+          "posts": 1,
+          "score": 450
+        },
+        {
+          "subject": "Evolutions",
+          "about": "player",
+          "trait": "god-awful at the game",
+          "polarity": "negative",
+          "quote": "players who you can tell are so god-awful at the game",
+          "link": "https://reddit.com/comments/1bi0bea",
+          "posts": 1,
+          "score": 102
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "terrible at the game",
+          "polarity": "negative",
+          "quote": "You're just a terrible player",
+          "link": "https://reddit.com/comments/1t9pfo8",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "bad at the game",
+          "polarity": "negative",
+          "quote": "Are people truly this bad at the game",
+          "link": "https://reddit.com/comments/1nxed7x",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "Boss Bandit",
+          "about": "player",
+          "trait": "is not good at the game",
+          "polarity": "negative",
+          "quote": "self report that you are not good at the game",
+          "link": "https://reddit.com/comments/1lsiilr",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "hog cycle",
+          "about": "player",
+          "trait": "bad at the game",
+          "polarity": "negative",
+          "quote": "Are the players of this game really so bad",
+          "link": "https://reddit.com/comments/1bwap0o",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Boss Bandit",
+        "Hog Rider",
+        "Ice Spirit",
+        "Mega Knight",
+        "Skeletons"
+      ],
+      "rarity_factor": 4.16
+    },
+    {
+      "id": "t037",
+      "polarity": "negative",
+      "label": "toxic and spam emotes",
+      "variants": [
+        "toxic and spam emotes",
+        "toxic and spams emotes"
+      ],
+      "members": [
+        {
+          "subject": "Mortar Bait",
+          "about": "player",
+          "trait": "toxic and spam emotes",
+          "polarity": "negative",
+          "quote": "people playing these decks are also very toxic and keep spamming emotes",
+          "link": "https://reddit.com/comments/1v0g0jw",
+          "posts": 1,
+          "score": 22
+        },
+        {
+          "subject": "X-Bow",
+          "about": "player",
+          "trait": "toxic and spam emotes",
+          "polarity": "negative",
+          "quote": "people playing these decks are also very toxic and keep spamming emotes",
+          "link": "https://reddit.com/comments/1v0g0jw",
+          "posts": 1,
+          "score": 22
+        },
+        {
+          "subject": "Elixir Golem",
+          "about": "player",
+          "trait": "toxic and spam emotes",
+          "polarity": "negative",
+          "quote": "people playing these decks are also very toxic and keep spamming emotes",
+          "link": "https://reddit.com/comments/1v0g0jw",
+          "posts": 1,
+          "score": 22
+        },
+        {
+          "subject": "Balloon Freeze",
+          "about": "player",
+          "trait": "toxic and spam emotes",
+          "polarity": "negative",
+          "quote": "people playing these decks are also very toxic and keep spamming emotes",
+          "link": "https://reddit.com/comments/1v0g0jw",
+          "posts": 1,
+          "score": 22
+        },
+        {
+          "subject": "Royal Giant",
+          "about": "player",
+          "trait": "toxic and spams emotes",
+          "polarity": "negative",
+          "quote": "toxic Rg player that kept spamming supports... kept princess emoting me",
+          "link": "https://reddit.com/comments/1w4g593",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Goblin",
+          "about": "player",
+          "trait": "toxic and spams emotes",
+          "polarity": "negative",
+          "quote": "start spamming the crying goblin emote",
+          "link": "https://reddit.com/comments/1viyz6b",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Balloon",
+        "Elixir Golem",
+        "Freeze",
+        "Goblin Barrel",
+        "Goblins",
+        "Mortar",
+        "Royal Giant",
+        "X-Bow"
+      ],
+      "rarity_factor": 3.69
+    },
+    {
+      "id": "t005",
+      "polarity": "negative",
+      "label": "lack strategic thinking",
+      "variants": [
+        "lack strategic thinking",
+        "lacks strategy and innovation"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lack strategic thinking",
+          "polarity": "negative",
+          "quote": "KILL BRAINDEAD MEGAKNIGHT",
+          "link": "https://reddit.com/comments/1v5aj2h",
+          "posts": 2,
+          "score": 10
+        },
+        {
+          "subject": "X-Bow",
+          "about": "player",
+          "trait": "lack strategic thinking",
+          "polarity": "negative",
+          "quote": "BRAINDEAD MEGAKNIGHT XBOW",
+          "link": "https://reddit.com/comments/1v5aj2h",
+          "posts": 1,
+          "score": 10
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks strategy and innovation",
+          "polarity": "negative",
+          "quote": "boring decks without strategy or inovation",
+          "link": "https://reddit.com/comments/1uciky9",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Witch",
+          "about": "player",
+          "trait": "lack strategic thinking",
+          "polarity": "negative",
+          "quote": "no strategy slap cards down",
+          "link": "https://reddit.com/comments/1vnm2xm",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Boss Bandit",
+          "about": "player",
+          "trait": "lack strategic thinking",
+          "polarity": "negative",
+          "quote": "no strategy slap cards down",
+          "link": "https://reddit.com/comments/1vnm2xm",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Boss Bandit",
+        "Mega Knight",
+        "Witch",
+        "X-Bow"
+      ],
+      "rarity_factor": 4.38
+    },
+    {
+      "id": "t035",
+      "polarity": "negative",
+      "label": "lack basic game knowledge",
+      "variants": [
+        "lack basic game knowledge",
+        "lacks basic game knowledge",
+        "lacks card interaction knowledge",
+        "lacks deck synergy understanding"
+      ],
+      "members": [
+        {
+          "subject": "Elixir Golem",
+          "about": "player",
+          "trait": "lack basic game knowledge",
+          "polarity": "negative",
+          "quote": "they just don’t seem to know that when it’s killed, it gives your opponent elixir",
+          "link": "https://reddit.com/comments/1tjbp73",
+          "posts": 1,
+          "score": 36
+        },
+        {
+          "subject": "2v2",
+          "about": "player",
+          "trait": "lack basic game knowledge",
+          "polarity": "negative",
+          "quote": "people in 2v2 were no where near as braindead",
+          "link": "https://reddit.com/comments/1tjbp73",
+          "posts": 1,
+          "score": 36
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks basic game knowledge",
+          "polarity": "negative",
+          "quote": "UNABLE TO COMPREHEND HOW TO PLACE CARDS",
+          "link": "https://reddit.com/comments/1t1ij7e",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "lacks card interaction knowledge",
+          "polarity": "negative",
+          "quote": "unfamiliarity with card interactions",
+          "link": "https://reddit.com/comments/1vg8ony",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "lacks deck synergy understanding",
+          "polarity": "negative",
+          "quote": "lack of deck synergy",
+          "link": "https://reddit.com/comments/1vg8ony",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Elixir Golem",
+        "Hog Rider",
+        "Mega Knight"
+      ],
+      "rarity_factor": 4.67
+    },
+    {
+      "id": "t041",
+      "polarity": "negative",
+      "label": "does not use brain",
+      "variants": [
+        "does not use brain",
+        "has no brain"
+      ],
+      "members": [
+        {
+          "subject": "Boss Bandit",
+          "about": "player",
+          "trait": "does not use brain",
+          "polarity": "negative",
+          "quote": "No one uses their brain.",
+          "link": "https://reddit.com/comments/1t2m1un",
+          "posts": 1,
+          "score": 8
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "does not use brain",
+          "polarity": "negative",
+          "quote": "No one uses their brain.",
+          "link": "https://reddit.com/comments/1t2m1un",
+          "posts": 1,
+          "score": 8
+        },
+        {
+          "subject": "Elite Barbarians",
+          "about": "player",
+          "trait": "does not use brain",
+          "polarity": "negative",
+          "quote": "No one uses their brain.",
+          "link": "https://reddit.com/comments/1t2m1un",
+          "posts": 1,
+          "score": 8
+        },
+        {
+          "subject": "Witch",
+          "about": "player",
+          "trait": "does not use brain",
+          "polarity": "negative",
+          "quote": "Everyone uses evo witch. No one uses their brain.",
+          "link": "https://reddit.com/comments/1t2m1un",
+          "posts": 1,
+          "score": 8
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "has no brain",
+          "polarity": "negative",
+          "quote": "I have no brain",
+          "link": "https://reddit.com/comments/1p1mf9s",
+          "posts": 1,
+          "score": 2
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Boss Bandit",
+        "Elite Barbarians",
+        "Mega Knight",
+        "Witch"
+      ],
+      "rarity_factor": 4.38
+    },
+    {
+      "id": "t006",
+      "polarity": "negative",
+      "label": "is a bad player",
+      "variants": [
+        "is a bad player",
+        "is bad at the game"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "is a bad player",
+          "polarity": "negative",
+          "quote": "crutch for bad players",
+          "link": "https://reddit.com/comments/1nh9dsw",
+          "posts": 2,
+          "score": 2
+        },
+        {
+          "subject": "Firecracker",
+          "about": "player",
+          "trait": "is a bad player",
+          "polarity": "negative",
+          "quote": "Evo firecracker is the biggest crutch for bad players ever",
+          "link": "https://reddit.com/comments/17o634j",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Hog Firecracker",
+          "about": "player",
+          "trait": "is bad at the game",
+          "polarity": "negative",
+          "quote": "these losers use it as such a crutch that they’re actually trash at the game",
+          "link": "https://reddit.com/comments/1bmkxlf",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Firecracker",
+        "Hog Rider",
+        "Mega Knight"
+      ],
+      "rarity_factor": 4.67
+    },
+    {
+      "id": "t007",
+      "polarity": "negative",
+      "label": "is a mid-ladder player",
+      "variants": [
+        "abuses card in mid-ladder",
+        "is a mid-ladder player",
+        "mid-ladder player"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "is a mid-ladder player",
+          "polarity": "negative",
+          "quote": "midladder players who is mad because their mega knight is useless",
+          "link": "https://reddit.com/comments/1wf0jfb",
+          "posts": 2,
+          "score": 1
+        },
+        {
+          "subject": "Witch",
+          "about": "player",
+          "trait": "mid-ladder player",
+          "polarity": "negative",
+          "quote": "Is this bots or just midladders being midladder?",
+          "link": "https://reddit.com/comments/1vox9la",
+          "posts": 1,
+          "score": 35
+        },
+        {
+          "subject": "PEKKA",
+          "about": "player",
+          "trait": "abuses card in mid-ladder",
+          "polarity": "negative",
+          "quote": "abused in midladder",
+          "link": "https://reddit.com/comments/1horgtz",
+          "posts": 1,
+          "score": 5
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight",
+        "P.E.K.K.A.",
+        "Witch"
+      ],
+      "rarity_factor": 4.67
+    },
+    {
+      "id": "t021",
+      "polarity": "negative",
+      "label": "frustrating playstyle",
+      "variants": [
+        "frustrating playstyle",
+        "lazy playstyle",
+        "most frustrating playstyle ever"
+      ],
+      "members": [
+        {
+          "subject": "Giant",
+          "about": "player",
+          "trait": "frustrating playstyle",
+          "polarity": "negative",
+          "quote": "giant in the back is the most frustrating playstyle",
+          "link": "https://reddit.com/comments/1pqsjyy",
+          "posts": 1,
+          "score": 507
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lazy playstyle",
+          "polarity": "negative",
+          "quote": "Lazy playstyle",
+          "link": "https://reddit.com/comments/1sif5hw",
+          "posts": 1,
+          "score": 16
+        },
+        {
+          "subject": "Giant",
+          "about": "card",
+          "trait": "most frustrating playstyle ever",
+          "polarity": "negative",
+          "quote": "giant in the back has to be the most frustrating playstyle ever",
+          "link": "https://reddit.com/comments/1pqsj08",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Giant",
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.08
+    },
+    {
+      "id": "t064",
+      "polarity": "negative",
+      "label": "does not know how to play",
+      "variants": [
+        "does not know how to play"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "does not know how to play",
+          "polarity": "negative",
+          "quote": "doesn’t know how to play the game",
+          "link": "https://reddit.com/comments/1e0e483",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Firecracker",
+          "about": "player",
+          "trait": "does not know how to play",
+          "polarity": "negative",
+          "quote": "doesn’t know how to play the game",
+          "link": "https://reddit.com/comments/1e0e483",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "hog, pekka, mega knight and goblin barrel spam decks",
+          "about": "player",
+          "trait": "does not know how to play",
+          "polarity": "negative",
+          "quote": "Nobody knows how to play anymore",
+          "link": "https://reddit.com/comments/1v709as",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Firecracker",
+        "Goblin Barrel",
+        "Hog Rider",
+        "Mega Knight",
+        "P.E.K.K.A."
+      ],
+      "rarity_factor": 4.16
+    },
+    {
+      "id": "t015",
+      "polarity": "negative",
+      "label": "considered toxic",
+      "variants": [
+        "considered toxic",
+        "is very toxic"
+      ],
+      "members": [
+        {
+          "subject": "Battle Healer",
+          "about": "card",
+          "trait": "considered toxic",
+          "polarity": "negative",
+          "quote": "healer is considered toxic",
+          "link": "https://reddit.com/comments/1v59rwu",
+          "posts": 1,
+          "score": 3
+        },
+        {
+          "subject": "log bait",
+          "about": "player",
+          "trait": "is very toxic",
+          "polarity": "negative",
+          "quote": "why are you guys so toxic",
+          "link": "https://reddit.com/comments/1v1kfvm",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Battle Healer",
+        "Goblin Barrel",
+        "Goblin Gang",
+        "Princess"
+      ],
+      "rarity_factor": 4.38
+    },
+    {
+      "id": "t023",
+      "polarity": "negative",
+      "label": "no skill toxic card",
+      "variants": [
+        "no skill toxic card"
+      ],
+      "members": [
+        {
+          "subject": "Firecracker",
+          "about": "card",
+          "trait": "no skill toxic card",
+          "polarity": "negative",
+          "quote": "no skill cards... why does a 3 or 4 elixir troop gets to do so…",
+          "link": "https://reddit.com/comments/1v7lept",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "Marcher",
+          "about": "card",
+          "trait": "no skill toxic card",
+          "polarity": "negative",
+          "quote": "no skill cards... why does a 3 or 4 elixir troop gets to do so…",
+          "link": "https://reddit.com/comments/1v7lept",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Firecracker",
+        "Magic Archer"
+      ],
+      "rarity_factor": 5.08
+    },
+    {
+      "id": "t038",
+      "polarity": "negative",
+      "label": "low intelligence and unoriginal",
+      "variants": [
+        "low intelligence",
+        "low intelligence and unoriginal"
+      ],
+      "members": [
+        {
+          "subject": "Witch",
+          "about": "player",
+          "trait": "low intelligence and unoriginal",
+          "polarity": "negative",
+          "quote": "Average IQ of players who use this combination... unoriginal ladder garbage",
+          "link": "https://reddit.com/comments/1wdb9so",
+          "posts": 1,
+          "score": 21
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "low intelligence",
+          "polarity": "negative",
+          "quote": "low IQ players who use it",
+          "link": "https://reddit.com/comments/1sk6f9d",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight",
+        "Witch"
+      ],
+      "rarity_factor": 5.08
+    },
+    {
+      "id": "t046",
+      "polarity": "negative",
+      "label": "plays passively and waits",
+      "variants": [
+        "plays passively and waits",
+        "plays too passively"
+      ],
+      "members": [
+        {
+          "subject": "Rocket Cycle",
+          "about": "player",
+          "trait": "plays passively and waits",
+          "polarity": "negative",
+          "quote": "they’re just waiting for triple elixir so they can spam Rockets",
+          "link": "https://reddit.com/comments/1s1kgpp",
+          "posts": 1,
+          "score": 5
+        },
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "plays too passively",
+          "polarity": "negative",
+          "quote": "predictive passive-playstyle",
+          "link": "https://reddit.com/comments/1vg8ony",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Hog Rider",
+        "Rocket",
+        "Skeletons"
+      ],
+      "rarity_factor": 4.67
+    },
+    {
+      "id": "t054",
+      "polarity": "negative",
+      "label": "lacks originality",
+      "variants": [
+        "lacks originality",
+        "lacks originality in deck building"
+      ],
+      "members": [
+        {
+          "subject": "bridge spam",
+          "about": "player",
+          "trait": "lacks originality",
+          "polarity": "negative",
+          "quote": "people who think bridge spam is a personality",
+          "link": "https://reddit.com/comments/1luii79",
+          "posts": 1,
+          "score": 2
+        },
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "lacks originality in deck building",
+          "polarity": "negative",
+          "quote": "is it too hard for mid ladder players to have a personality?",
+          "link": "https://reddit.com/comments/1cudojq",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Bandit",
+        "Battle Ram",
+        "Mega Knight",
+        "Royal Ghost"
+      ],
+      "rarity_factor": 4.38
+    },
+    {
+      "id": "t059",
+      "polarity": "negative",
+      "label": "toxic",
+      "variants": [
+        "toxic"
+      ],
+      "members": [
+        {
+          "subject": "sparky gob giant",
+          "about": "player",
+          "trait": "toxic",
+          "polarity": "negative",
+          "quote": "I face the most toxic, brainrot decks",
+          "link": "https://reddit.com/comments/1wexaxp",
+          "posts": 1,
+          "score": 1
+        },
+        {
+          "subject": "hog rider",
+          "about": "player",
+          "trait": "toxic",
+          "polarity": "negative",
+          "quote": "I face the most toxic, brainrot decks",
+          "link": "https://reddit.com/comments/1wexaxp",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Goblin Giant",
+        "Hog Rider",
+        "Sparky"
+      ],
+      "rarity_factor": 4.67
+    },
+    {
+      "id": "t066",
+      "polarity": "negative",
+      "label": "gives up easily",
+      "variants": [
+        "gives up easily"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "gives up easily",
+          "polarity": "negative",
+          "quote": "half the time they just leave the game",
+          "link": "https://reddit.com/comments/16nig4q",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "midladder",
+          "about": "player",
+          "trait": "gives up easily",
+          "polarity": "negative",
+          "quote": "people just… give up and exit the game",
+          "link": "https://reddit.com/comments/1vdh5ez",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t070",
+      "polarity": "negative",
+      "label": "relies on luck",
+      "variants": [
+        "relies on luck"
+      ],
+      "members": [
+        {
+          "subject": "Freeze + Balloon",
+          "about": "player",
+          "trait": "relies on luck",
+          "polarity": "negative",
+          "quote": "not because you're good",
+          "link": "https://reddit.com/comments/1vko8hm",
+          "posts": 1,
+          "score": 0
+        },
+        {
+          "subject": "hog freeze",
+          "about": "player",
+          "trait": "relies on luck",
+          "polarity": "negative",
+          "quote": "It works because you catch people off guard not because you're good.",
+          "link": "https://reddit.com/comments/1vko8hm",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Balloon",
+        "Freeze",
+        "Hog Rider"
+      ],
+      "rarity_factor": 4.67
+    },
+    {
+      "id": "t008",
+      "polarity": "negative",
+      "label": "poorly designed",
+      "variants": [
+        "poorly designed"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "poorly designed",
+          "polarity": "negative",
+          "quote": "crutch evo, that brings nothing interesting",
+          "link": "https://reddit.com/comments/1o5ym0u",
+          "posts": 1,
+          "score": 38
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t009",
+      "polarity": "negative",
+      "label": "defensive wall",
+      "variants": [
+        "defensive wall"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "defensive wall",
+          "polarity": "negative",
+          "quote": "He is a defensive wall",
+          "link": "https://reddit.com/comments/1o5ym0u",
+          "posts": 1,
+          "score": 38
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t010",
+      "polarity": "negative",
+      "label": "overused on ladder",
+      "variants": [
+        "overused on ladder"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "overused on ladder",
+          "polarity": "negative",
+          "quote": "This card is a disease in ladder",
+          "link": "https://reddit.com/comments/1o5ym0u",
+          "posts": 1,
+          "score": 38
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t011",
+      "polarity": "negative",
+      "label": "unbalanced and disgusting strategy",
+      "variants": [
+        "unbalanced and disgusting strategy"
+      ],
+      "members": [
+        {
+          "subject": "Witch",
+          "about": "card",
+          "trait": "unbalanced and disgusting strategy",
+          "polarity": "negative",
+          "quote": "The most unbalanced, braindead, cancerous, disgusting strategy",
+          "link": "https://reddit.com/comments/1uurqn8",
+          "posts": 1,
+          "score": 8
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Witch"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t013",
+      "polarity": "negative",
+      "label": "boring to watch",
+      "variants": [
+        "boring to watch"
+      ],
+      "members": [
+        {
+          "subject": "X-Bow",
+          "about": "card",
+          "trait": "boring to watch",
+          "polarity": "negative",
+          "quote": "xbow gameplay is overall boring to watch",
+          "link": "https://reddit.com/comments/17d2yx2",
+          "posts": 1,
+          "score": 4
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "X-Bow"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t014",
+      "polarity": "negative",
+      "label": "annoying",
+      "variants": [
+        "annoying"
+      ],
+      "members": [
+        {
+          "subject": "bowler",
+          "about": "card",
+          "trait": "annoying",
+          "polarity": "negative",
+          "quote": "hero bowler was already annoying",
+          "link": "https://reddit.com/comments/1v59wel",
+          "posts": 1,
+          "score": 3
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Bowler"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t016",
+      "polarity": "negative",
+      "label": "gimmicky and useless",
+      "variants": [
+        "gimmicky and useless"
+      ],
+      "members": [
+        {
+          "subject": "Hero Tombstone",
+          "about": "card",
+          "trait": "gimmicky and useless",
+          "polarity": "negative",
+          "quote": "it's unfortunately very gimmicky and serves a totally different function",
+          "link": "https://reddit.com/comments/1v3qq69",
+          "posts": 1,
+          "score": 3
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Tombstone"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t017",
+      "polarity": "negative",
+      "label": "plays itself automatically",
+      "variants": [
+        "plays itself automatically"
+      ],
+      "members": [
+        {
+          "subject": "Electro Giant",
+          "about": "card",
+          "trait": "plays itself automatically",
+          "polarity": "negative",
+          "quote": "leading the Card feeling like it \"plays itself\"",
+          "link": "https://reddit.com/comments/1sxncge",
+          "posts": 1,
+          "score": 3
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Electro Giant"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t018",
+      "polarity": "negative",
+      "label": "place and forget card",
+      "variants": [
+        "place and forget card"
+      ],
+      "members": [
+        {
+          "subject": "Electro Giant",
+          "about": "card",
+          "trait": "place and forget card",
+          "polarity": "negative",
+          "quote": "less of a \"place and forget\" Card",
+          "link": "https://reddit.com/comments/1sxncge",
+          "posts": 1,
+          "score": 3
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Electro Giant"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t019",
+      "polarity": "negative",
+      "label": "low risk high reward",
+      "variants": [
+        "low risk high reward"
+      ],
+      "members": [
+        {
+          "subject": "Evo Skeletons",
+          "about": "card",
+          "trait": "low risk high reward",
+          "polarity": "negative",
+          "quote": "there a low risk high reward card",
+          "link": "https://reddit.com/comments/1be2xqh",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Skeletons"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t020",
+      "polarity": "negative",
+      "label": "overpowered",
+      "variants": [
+        "overpowered"
+      ],
+      "members": [
+        {
+          "subject": "Firecracker",
+          "about": "card",
+          "trait": "overpowered",
+          "polarity": "negative",
+          "quote": "definitely broken and honestly i agree that it’s overpowered",
+          "link": "https://reddit.com/comments/1b5w0e5",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Firecracker"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t022",
+      "polarity": "negative",
+      "label": "brainrot",
+      "variants": [
+        "brainrot"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "card",
+          "trait": "brainrot",
+          "polarity": "negative",
+          "quote": "this brainrot is constantly 3 crowning me",
+          "link": "https://reddit.com/comments/1uq74xa",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t024",
+      "polarity": "negative",
+      "label": "very narcissistic",
+      "variants": [
+        "very narcissistic"
+      ],
+      "members": [
+        {
+          "subject": "Golden Knight",
+          "about": "card",
+          "trait": "very narcissistic",
+          "polarity": "negative",
+          "quote": "he would be very narcissistic",
+          "link": "https://reddit.com/comments/1lm5ru1",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Golden Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t025",
+      "polarity": "negative",
+      "label": "plays without strategy",
+      "variants": [
+        "plays without strategy"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "plays without strategy",
+          "polarity": "negative",
+          "quote": "No strategy, just spammed all day",
+          "link": "https://reddit.com/comments/1n6fh5m",
+          "posts": 1,
+          "score": 543
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t027",
+      "polarity": "negative",
+      "label": "gets carried by cards",
+      "variants": [
+        "gets carried by cards"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "gets carried by cards",
+          "polarity": "negative",
+          "quote": "how hard some terrible players can get carried",
+          "link": "https://reddit.com/comments/1sxkh4n",
+          "posts": 1,
+          "score": 450
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t029",
+      "polarity": "negative",
+      "label": "uses pay to win advantage",
+      "variants": [
+        "uses pay to win advantage"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "uses pay to win advantage",
+          "polarity": "negative",
+          "quote": "MK is relied upon by P2W players",
+          "link": "https://reddit.com/comments/1o29bak",
+          "posts": 1,
+          "score": 254
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t030",
+      "polarity": "negative",
+      "label": "uses low iq playstyle",
+      "variants": [
+        "uses low iq playstyle"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "uses low iq playstyle",
+          "polarity": "negative",
+          "quote": "low IQ playstyle",
+          "link": "https://reddit.com/comments/1pujts5",
+          "posts": 1,
+          "score": 153
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t031",
+      "polarity": "negative",
+      "label": "can't win without evolutions",
+      "variants": [
+        "can't win without evolutions"
+      ],
+      "members": [
+        {
+          "subject": "Evolutions",
+          "about": "player",
+          "trait": "can't win without evolutions",
+          "polarity": "negative",
+          "quote": "bad players who can't win without evolutions",
+          "link": "https://reddit.com/comments/1bi0bea",
+          "posts": 1,
+          "score": 102
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t032",
+      "polarity": "negative",
+      "label": "spamming cards at the bridge",
+      "variants": [
+        "spamming cards at the bridge"
+      ],
+      "members": [
+        {
+          "subject": "Elixir Golem",
+          "about": "player",
+          "trait": "spamming cards at the bridge",
+          "polarity": "negative",
+          "quote": "the other one is just spamming cards at the bridge",
+          "link": "https://reddit.com/comments/1t5062y",
+          "posts": 1,
+          "score": 92
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Elixir Golem"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t033",
+      "polarity": "negative",
+      "label": "idiots with midladder crap",
+      "variants": [
+        "idiots with midladder crap"
+      ],
+      "members": [
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "idiots with midladder crap",
+          "polarity": "negative",
+          "quote": "all these idiots with midladder crap",
+          "link": "https://reddit.com/comments/1w944sb",
+          "posts": 1,
+          "score": 56
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Hog Rider"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t034",
+      "polarity": "negative",
+      "label": "plays hyper aggressively",
+      "variants": [
+        "plays hyper aggressively"
+      ],
+      "members": [
+        {
+          "subject": "2.6",
+          "about": "player",
+          "trait": "plays hyper aggressively",
+          "polarity": "negative",
+          "quote": "they can be hyper aggressive",
+          "link": "https://reddit.com/comments/1vu303q",
+          "posts": 1,
+          "score": 41
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Cannon",
+        "Hog Rider",
+        "Ice Spirit",
+        "Musketeer"
+      ],
+      "rarity_factor": 4.38
+    },
+    {
+      "id": "t036",
+      "polarity": "negative",
+      "label": "toxic and lack creativity",
+      "variants": [
+        "toxic and lack creativity"
+      ],
+      "members": [
+        {
+          "subject": "2.6",
+          "about": "player",
+          "trait": "toxic and lack creativity",
+          "polarity": "negative",
+          "quote": "players, especially the 2.6 ones, are so toxic... neither creative in deck building",
+          "link": "https://reddit.com/comments/1vcevaf",
+          "posts": 1,
+          "score": 23
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Cannon",
+        "Hog Rider",
+        "Ice Spirit",
+        "Musketeer"
+      ],
+      "rarity_factor": 4.38
+    },
+    {
+      "id": "t039",
+      "polarity": "negative",
+      "label": "poorly behaved",
+      "variants": [
+        "poorly behaved"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "poorly behaved",
+          "polarity": "negative",
+          "quote": "Poorly behaved",
+          "link": "https://reddit.com/comments/1sif5hw",
+          "posts": 1,
+          "score": 16
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t040",
+      "polarity": "negative",
+      "label": "overlevelled",
+      "variants": [
+        "overlevelled"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "overlevelled",
+          "polarity": "negative",
+          "quote": "Overlevelled",
+          "link": "https://reddit.com/comments/1sif5hw",
+          "posts": 1,
+          "score": 16
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t042",
+      "polarity": "negative",
+      "label": "plays desperately",
+      "variants": [
+        "plays desperately"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "plays desperately",
+          "polarity": "negative",
+          "quote": "That forced mega knight at the bridge? That desperate last second hog",
+          "link": "https://reddit.com/comments/175vbzh",
+          "posts": 1,
+          "score": 5
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t043",
+      "polarity": "negative",
+      "label": "relies on blind value",
+      "variants": [
+        "relies on blind value"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "relies on blind value",
+          "polarity": "negative",
+          "quote": "They rely on just providing so much blind value",
+          "link": "https://reddit.com/comments/1vnqdwb",
+          "posts": 1,
+          "score": 5
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t044",
+      "polarity": "negative",
+      "label": "plays poorly",
+      "variants": [
+        "plays poorly"
+      ],
+      "members": [
+        {
+          "subject": "Goblin Barrel",
+          "about": "player",
+          "trait": "plays poorly",
+          "polarity": "negative",
+          "quote": "played clone on my goblin barrel multiple times",
+          "link": "https://reddit.com/comments/1vvi643",
+          "posts": 1,
+          "score": 5
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Goblin Barrel"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t045",
+      "polarity": "negative",
+      "label": "places cards without thinking",
+      "variants": [
+        "places cards without thinking"
+      ],
+      "members": [
+        {
+          "subject": "Wall Breakers",
+          "about": "player",
+          "trait": "places cards without thinking",
+          "polarity": "negative",
+          "quote": "You just place wall breakers at the bridge without thinking.",
+          "link": "https://reddit.com/comments/1ugv5my",
+          "posts": 1,
+          "score": 5
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Wall Breakers"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t047",
+      "polarity": "negative",
+      "label": "makes terrible plays",
+      "variants": [
+        "makes terrible plays"
+      ],
+      "members": [
+        {
+          "subject": "midladder",
+          "about": "player",
+          "trait": "makes terrible plays",
+          "polarity": "negative",
+          "quote": "midladder will midladder I guess",
+          "link": "https://reddit.com/comments/1vvlhw5",
+          "posts": 1,
+          "score": 4
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t048",
+      "polarity": "negative",
+      "label": "throws pekka on the bridge without thinking",
+      "variants": [
+        "throws pekka on the bridge without thinking"
+      ],
+      "members": [
+        {
+          "subject": "Pekka",
+          "about": "player",
+          "trait": "throws pekka on the bridge without thinking",
+          "polarity": "negative",
+          "quote": "throwing Pekka on the bridge without thinking",
+          "link": "https://reddit.com/comments/1qskuo0",
+          "posts": 1,
+          "score": 4
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "P.E.K.K.A."
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t049",
+      "polarity": "negative",
+      "label": "forgets how to defend",
+      "variants": [
+        "forgets how to defend"
+      ],
+      "members": [
+        {
+          "subject": "Dagger Duchess",
+          "about": "player",
+          "trait": "forgets how to defend",
+          "polarity": "negative",
+          "quote": "forgot how to properly defend",
+          "link": "https://reddit.com/comments/1di2wez",
+          "posts": 1,
+          "score": 3
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t050",
+      "polarity": "negative",
+      "label": "plays toxic behavior",
+      "variants": [
+        "plays toxic behavior"
+      ],
+      "members": [
+        {
+          "subject": "X-Bow",
+          "about": "player",
+          "trait": "plays toxic behavior",
+          "polarity": "negative",
+          "quote": "increases the amount of toxic behavior",
+          "link": "https://reddit.com/comments/1w2dt8b",
+          "posts": 1,
+          "score": 3
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "X-Bow"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t051",
+      "polarity": "negative",
+      "label": "spends money to win",
+      "variants": [
+        "spends money to win"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "spends money to win",
+          "polarity": "negative",
+          "quote": "spent all its/ parents money on level 16",
+          "link": "https://reddit.com/comments/1uciky9",
+          "posts": 1,
+          "score": 2
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t052",
+      "polarity": "negative",
+      "label": "clowns",
+      "variants": [
+        "clowns"
+      ],
+      "members": [
+        {
+          "subject": "Midladder Spam Decks",
+          "about": "player",
+          "trait": "clowns",
+          "polarity": "negative",
+          "quote": "nothing works more than once against these clowns",
+          "link": "https://reddit.com/comments/1w6h00e",
+          "posts": 1,
+          "score": 2
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t053",
+      "polarity": "negative",
+      "label": "requires much less thinking",
+      "variants": [
+        "requires much less thinking"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "requires much less thinking",
+          "polarity": "negative",
+          "quote": "it requires much less thinking and isn’t as stressful to play",
+          "link": "https://reddit.com/comments/1veumvp",
+          "posts": 1,
+          "score": 2
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t055",
+      "polarity": "negative",
+      "label": "overestimates own skill",
+      "variants": [
+        "overestimates own skill"
+      ],
+      "members": [
+        {
+          "subject": "Ultimate Champion",
+          "about": "player",
+          "trait": "overestimates own skill",
+          "polarity": "negative",
+          "quote": "they genuinely think they did something",
+          "link": "https://reddit.com/comments/1luii79",
+          "posts": 1,
+          "score": 2
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t056",
+      "polarity": "negative",
+      "label": "plays golem wrong",
+      "variants": [
+        "plays golem wrong"
+      ],
+      "members": [
+        {
+          "subject": "Golem beatdown",
+          "about": "player",
+          "trait": "plays golem wrong",
+          "polarity": "negative",
+          "quote": "everyone plays golem wrong",
+          "link": "https://reddit.com/comments/1qa7i9d",
+          "posts": 1,
+          "score": 2
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Golem"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t057",
+      "polarity": "negative",
+      "label": "relies on brute force",
+      "variants": [
+        "relies on brute force"
+      ],
+      "members": [
+        {
+          "subject": "evo win condition",
+          "about": "player",
+          "trait": "relies on brute force",
+          "polarity": "negative",
+          "quote": "brute forcing your way",
+          "link": "https://reddit.com/comments/1nfiqum",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t058",
+      "polarity": "negative",
+      "label": "plays boring decks",
+      "variants": [
+        "plays boring decks"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "plays boring decks",
+          "polarity": "negative",
+          "quote": "take a deck, exchanging one of the cards for megaknight",
+          "link": "https://reddit.com/comments/1mwob9p",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t060",
+      "polarity": "negative",
+      "label": "boring",
+      "variants": [
+        "boring"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "boring",
+          "polarity": "negative",
+          "quote": "if you use MK, you're boring",
+          "link": "https://reddit.com/comments/15c53pa",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t061",
+      "polarity": "negative",
+      "label": "refuses to learn",
+      "variants": [
+        "refuses to learn"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "refuses to learn",
+          "polarity": "negative",
+          "quote": "People cant actually learn how to win",
+          "link": "https://reddit.com/comments/1sxkw2y",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t062",
+      "polarity": "negative",
+      "label": "puts in no effort",
+      "variants": [
+        "puts in no effort"
+      ],
+      "members": [
+        {
+          "subject": "Goblin",
+          "about": "player",
+          "trait": "puts in no effort",
+          "polarity": "negative",
+          "quote": "love not having to put any effort",
+          "link": "https://reddit.com/comments/1qvalk4",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Goblins"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t063",
+      "polarity": "negative",
+      "label": "too lazy to adapt",
+      "variants": [
+        "too lazy to adapt"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "too lazy to adapt",
+          "polarity": "negative",
+          "quote": "too lazy to get creative or adapt",
+          "link": "https://reddit.com/comments/1f1gzaa",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t065",
+      "polarity": "negative",
+      "label": "is a coward",
+      "variants": [
+        "is a coward"
+      ],
+      "members": [
+        {
+          "subject": "Inferno Tower",
+          "about": "player",
+          "trait": "is a coward",
+          "polarity": "negative",
+          "quote": "your a coward",
+          "link": "https://reddit.com/comments/1c5f6ag",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Inferno Tower"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t067",
+      "polarity": "negative",
+      "label": "cries and needs to get better",
+      "variants": [
+        "cries and needs to get better"
+      ],
+      "members": [
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "cries and needs to get better",
+          "polarity": "negative",
+          "quote": "stop crying and get better at the game",
+          "link": "https://reddit.com/comments/1vp46ca",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Hog Rider"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t068",
+      "polarity": "negative",
+      "label": "has a fragile mental",
+      "variants": [
+        "has a fragile mental"
+      ],
+      "members": [
+        {
+          "subject": "midladder",
+          "about": "player",
+          "trait": "has a fragile mental",
+          "polarity": "negative",
+          "quote": "Is midladder mental really this fragile?",
+          "link": "https://reddit.com/comments/1vdh5ez",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t069",
+      "polarity": "negative",
+      "label": "insufferable",
+      "variants": [
+        "insufferable"
+      ],
+      "members": [
+        {
+          "subject": "mid-ladder",
+          "about": "player",
+          "trait": "insufferable",
+          "polarity": "negative",
+          "quote": "midladder menaces are less insufferable",
+          "link": "https://reddit.com/comments/1v5hr6g",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t071",
+      "polarity": "negative",
+      "label": "plays toxic decks",
+      "variants": [
+        "plays toxic decks"
+      ],
+      "members": [
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "plays toxic decks",
+          "polarity": "negative",
+          "quote": "nerf the people playing toxic decks",
+          "link": "https://reddit.com/comments/1v7rud7",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Hog Rider"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t072",
+      "polarity": "negative",
+      "label": "flexes level 14 cards",
+      "variants": [
+        "flexes level 14 cards"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "flexes level 14 cards",
+          "polarity": "negative",
+          "quote": "flexing their level 14 Mega Knight like it’s a personality trait",
+          "link": "https://reddit.com/comments/1jvror3",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t073",
+      "polarity": "negative",
+      "label": "makes the card their personality",
+      "variants": [
+        "makes the card their personality"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "makes the card their personality",
+          "polarity": "negative",
+          "quote": "People who use the Mega Knight makes it their whole personality",
+          "link": "https://reddit.com/comments/w4njuv",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t074",
+      "polarity": "negative",
+      "label": "has bad micro placement",
+      "variants": [
+        "has bad micro placement"
+      ],
+      "members": [
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "has bad micro placement",
+          "polarity": "negative",
+          "quote": "bad micro placement",
+          "link": "https://reddit.com/comments/1vg8ony",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Hog Rider"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t075",
+      "polarity": "negative",
+      "label": "overcommits elixir",
+      "variants": [
+        "overcommits elixir"
+      ],
+      "members": [
+        {
+          "subject": "Hog Rider",
+          "about": "player",
+          "trait": "overcommits elixir",
+          "polarity": "negative",
+          "quote": "elixir over commitment",
+          "link": "https://reddit.com/comments/1vg8ony",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Hog Rider"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t076",
+      "polarity": "neutral",
+      "label": "mid-ladder player",
+      "variants": [
+        "mid-ladder player"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "mid-ladder player",
+          "polarity": "neutral",
+          "quote": "This marks the start of midladder, the wicked MK Evo witch combos start to pop…",
+          "link": "https://reddit.com/comments/1w36usl",
+          "posts": 1,
+          "score": 33
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t077",
+      "polarity": "neutral",
+      "label": "spam emotes annoyingly",
+      "variants": [
+        "spam emotes annoyingly"
+      ],
+      "members": [
+        {
+          "subject": "Dart Goblin",
+          "about": "player",
+          "trait": "spam emotes annoyingly",
+          "polarity": "neutral",
+          "quote": "dart goblin emote spam",
+          "link": "https://reddit.com/comments/1ddsv1n",
+          "posts": 1,
+          "score": 9
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Dart Goblin"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t078",
+      "polarity": "neutral",
+      "label": "gives false sense of security",
+      "variants": [
+        "gives false sense of security"
+      ],
+      "members": [
+        {
+          "subject": "Mega Knight",
+          "about": "player",
+          "trait": "gives false sense of security",
+          "polarity": "neutral",
+          "quote": "giving enemy false sense of security before obliterate them",
+          "link": "https://reddit.com/comments/1pz3cvq",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Mega Knight"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t079",
+      "polarity": "neutral",
+      "label": "spams cheap cards",
+      "variants": [
+        "spams cheap cards"
+      ],
+      "members": [
+        {
+          "subject": "Golem",
+          "about": "player",
+          "trait": "spams cheap cards",
+          "polarity": "neutral",
+          "quote": "spamming cheap cards behind him",
+          "link": "https://reddit.com/comments/1pd4bya",
+          "posts": 1,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Golem"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t080",
+      "polarity": "positive",
+      "label": "plays incredibly easy deck",
+      "variants": [
+        "plays incredibly easy deck"
+      ],
+      "members": [
+        {
+          "subject": "X-Bow",
+          "about": "player",
+          "trait": "plays incredibly easy deck",
+          "polarity": "positive",
+          "quote": "incredibly easy to play",
+          "link": "https://reddit.com/comments/1tyeecv",
+          "posts": 2,
+          "score": 0
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "X-Bow"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t081",
+      "polarity": "positive",
+      "label": "highest skill ceiling",
+      "variants": [
+        "highest skill ceiling"
+      ],
+      "members": [
+        {
+          "subject": "X-Bow",
+          "about": "card",
+          "trait": "highest skill ceiling",
+          "polarity": "positive",
+          "quote": "it's one of the highest skill ceiling",
+          "link": "https://reddit.com/comments/1t5062y",
+          "posts": 1,
+          "score": 92
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "X-Bow"
+      ],
+      "rarity_factor": 5.77
+    },
+    {
+      "id": "t082",
+      "polarity": "positive",
+      "label": "highest win rate",
+      "variants": [
+        "highest win rate"
+      ],
+      "members": [
+        {
+          "subject": "hyper bait",
+          "about": "card",
+          "trait": "highest win rate",
+          "polarity": "positive",
+          "quote": "hyper bait for example is one of the highest win rate archetypes",
+          "link": "https://reddit.com/comments/1wf4vkk",
+          "posts": 1,
+          "score": 1
+        }
+      ],
+      "source": "community",
+      "cards": [
+        "Goblin Barrel",
+        "Princess"
+      ],
+      "rarity_factor": 5.08
+    }
+  ]
+}

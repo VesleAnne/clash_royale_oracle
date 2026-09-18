@@ -1,0 +1,6 @@
+.env
+.cache/
+__pycache__/
+venv/
+data/themes.csv.new
+.DS_Store
